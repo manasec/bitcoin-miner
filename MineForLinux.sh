@@ -14,7 +14,7 @@ exit 0
 fi
 
 
-ADDRESS = $1
+ADRESS = $1
 
 
 clear
