@@ -9,7 +9,7 @@ function cyanMessage{
 
 if [ -z "$1" ]
 then
-echo "./Mine.sh (Bitcoin/Adress)"
+echo "./MineForLinux.sh (Bitcoin/Adress)"
 exit 0
 fi
 
