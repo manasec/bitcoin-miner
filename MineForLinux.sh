@@ -3,7 +3,7 @@ function greenMessage {
     echo -e "\\033[32;1m${@}\033[0m"
 }
 
-function cyanMessage{
+function cyanMessage  {
     echo -e "\\033[36;1m${@}\033[0m"
 }
 
@@ -23,7 +23,7 @@ cyanMessage""
 cyanMessage "                  Bitcoin/Miner"
 cyanMessage "                   "
 cyanMessage "                    Script by"
-cyanMEssage "                  	   MANA"
+cyanMessage "                  	   MANA"
 cyanMessage  "            ------------------------"
 cyanMessage ""
 cyanMessage  "                 gihthub.com/manasec"
